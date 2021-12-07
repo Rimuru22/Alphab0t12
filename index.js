@@ -4858,7 +4858,7 @@ case 'tahta':
                    F = q
                    reply(lang.wait())
                    ytgold = await getBuffer(`${ApiZeks}/api/gplaybutton?text=${F}&apikey=${zeksApikey}`)
-                   ytgoldp = `${lang.success()}\n\nPlease Subscribe https://youtu.be/w4iQ4rwA0mo`
+                   ytgoldp = `${lang.success()}\n\nPlease Subscribe https://youtube.com/channel/UCpoByK0G_kcTKc3uMEmDGhw`
                    sendImageMaker(ytgold, ytgoldp, sender)
                    await  limitAdd(sender, limit)
                    break  
@@ -4867,7 +4867,7 @@ case 'tahta':
                    F = q
                    reply(lang.wait())
                    ytsilver = await getBuffer(`${ApiZeks}/api/splaybutton?text=${F}&apikey=${zeksApikey}`)
-                   ytsilverp = `${lang.success()}\n\nPlease Subscribe https://youtu.be/w4iQ4rwA0mo`
+                   ytsilverp = `${lang.success()}\n\nPlease Subscribe https://youtube.com/channel/UCpoByK0G_kcTKc3uMEmDGhw`
                    sendImageMaker(ytsilver, ytsilverp, sender)
                    await  limitAdd(sender, limit)
                    break              
