@@ -1,5 +1,5 @@
 {
-  "name": "Alphabot",
+  "name": "RIMURU",
   "version": "12.1.0",
   "description": "WhatsApp bot",
   "zeeone": "zeeone.js",
@@ -51,7 +51,7 @@
   "keywords": [
     "botwea"
   ],
-  "author": "ZEEONE",
+  "author": "MIDORIYA",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zeeoneofc"
